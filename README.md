@@ -3,8 +3,8 @@
 
 # Project Name
 
-Hello Microverse project
-This is basic project named HelloMicroverse Project. It is consist of Just one index.html and one style.css files. This is just a basic template not a big technical template. It is just the following
+setup and mobile first 
+This is basic project named setup and mobile first Project. It is consist of Just one index.html and one style.css files. This is just a basic template not a big technical template. It is just the following
 1) How to create feature branch
 2) How to add index.html and style.css to repository
 3) How to Use Linter
