@@ -1,25 +1,55 @@
-# curriculum-databases-projects-template
+# Hello-microverse
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+# Project Name
+
+Hello Microverse project
+This is basic project named HelloMicroverse Project. It is consist of Just one index.html and one style.css files. This is just a basic template not a big technical template. It is just the following
+1) How to create feature branch
+2) How to add index.html and style.css to repository
+3) How to Use Linter
+
+
+## Built With
+
+- Major languages and Tools
+- HTML,CSS,Flexbox,Gredding  etc.
+-No such frameworks are used in it
+
+## Live Demo (if available)
+
+[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-This repository includes files with plain SQL that can be used to recreate a database:
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@azizunnabi](https://github.com/azizunnabi)
+- Twitter: [@unnabiAzi](https://twitter.com/@unnabiAziz)
+- LinkedIn: [aziz-unnabi-770bb7212](https://linkedin.com/in/aziz-unnabi-770bb7212)
 
 👤 **Author2**
 
