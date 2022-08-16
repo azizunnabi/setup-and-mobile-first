@@ -109,7 +109,7 @@ a.inline {
   height: 122px;
 }
 
-/* Header / 1 */
+  /* Header / 1 */
 
 .h2 {
   margin-left: 30px;
@@ -119,16 +119,16 @@ a.inline {
   font-size: 40px;
   line-height: 52px;
 
-/* or 130% */
+  /* or 130% */
 
   display: flex;
   align-items: center;
 
-/* Neutrals/N800 */
+  /* Neutrals/N800 */
 
   color: #172b4d;
 
-/* Inside auto layout */
+  /* Inside auto layout */
 
   flex: none;
   order: 0;
@@ -198,7 +198,7 @@ h2 {
   padding-right: 40px;
   padding-top: 25px;
   margin-top: -30px;
-  margin-left:30px;
+  margin-left: 30px;
 }
 
 h5 {
@@ -212,7 +212,7 @@ h5 {
 }
 
 .ets {
-  margin-left:30px;
+  margin-left: 30px;
   color: #6070ff;
   margin-top: -50px;
   padding-top: 125px;
@@ -235,13 +235,12 @@ h5 {
 }
 
 .jd {
-  margin-left:30px;
+  margin-left: 30px;
 }
 
-/* Next project Set up started */
+  /* Next project Set up started */
 
 .imagesec4 {
-  
   width: 295px;
   height: 220px;
   top: 16px;
@@ -316,28 +315,28 @@ h5 {
   flex-grow: 0;
 }
 
-.sec3rlink31{
+.sec3rlink31 {
   text-decoration: none;
   width: 29px;
   height: 16px;
 
-/* Button / Small */
+  /* Button / Small */
 
-  font-family: 'Poppins';
+   font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
 
-/* identical to box height, or 133% */
+  /* identical to box height, or 133% */
 
   letter-spacing: 0.03em;
 
-/* Primary/B400 */
+  /* Primary/B400 */
 
-  color: #6070FF;
+  color: #6070ff;
 
-/* Inside auto layout */
+  /* Inside auto layout */
 
   flex: none;
   order: 0;
@@ -347,22 +346,22 @@ h5 {
   width: 55px;
   height: 16px;
 
-/* Caption / 1 - Bolder */
+  /* Caption / 1 - Bolder */
 
-  font-family: 'Poppins';
+   font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
 
-/* identical to box height, or 123% */
+    /* identical to box height, or 123% */
 
 
-/* Neutrals/N600 */
+    /* Neutrals/N600 */
 
   color: #344563;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
   flex: none;
   order: 0;
@@ -379,7 +378,7 @@ h5 {
   margin-left:30px;
   box-sizing: border-box;
 
-/* Auto layout */
+    /* Auto layout */
 
   display: flex;
   flex-direction: column;
@@ -389,16 +388,16 @@ h5 {
   width: 327px;
   height: 552px;
 
-/* Neutrals/N0 */
+  /* Neutrals/N0 */
 
   background: #FFFFFF;
 
-/* Neutrals/N40 */
+  /* Neutrals/N40 */
 
   border: 1px solid #DFE1E6;
   border-radius: 16px;
 
-/* Inside auto layout */
+  /* Inside auto layout */
 
   flex: none;
   order: 0;
@@ -408,27 +407,27 @@ h5 {
   width: 200px;
   height: 24px;
 
-/* Button /Normal */
+  /* Button /Normal */
 
-  font-family: 'Poppins';
+   font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
   line-height: 24px;
 
-/* identical to box height, or 141% */
+  /* identical to box height, or 141% */
 
   display: flex;
   align-items: center;
   text-align: center;
   letter-spacing: 0.03em;
 
-/* Primary/B500 */
+  /* Primary/B500 */
 
   color: #396DF2;
 
 
-/* Inside auto layout */
+  /* Inside auto layout */
 
   flex: none;
   order: 0;
