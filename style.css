@@ -11,9 +11,10 @@
 }
 
 .dkl {
-  float:right;
-  margin-right:90px;
+  float: right;
+  margin-right: 90px;
 }
+
 .sec3rlink23 {
   list-style-type: none;
 }
@@ -36,12 +37,13 @@
 
 .dk {
   margin-top: 20px;
-  margin-left:30px;
+  margin-left: 30px;
 }
 
-.sa{
-  margin-left:30px;
+.sa {
+  margin-left: 30px;
 }
+
 .cars {
   margin-left: 160px;
   border: 0;
@@ -107,10 +109,12 @@ a.inline {
   height: 122px;
 }
 
+
 /* Header / 1 */
 
+
 .h2 {
-margin-left:30px;
+margin-left: 30px;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 700;
