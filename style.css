@@ -108,7 +108,6 @@ a.inline {
   padding-top: 50px;
   height: 122px;
 }
-
   /* Header / 1 */
 
 .h2 {
@@ -139,8 +138,8 @@ a.inline {
   letter-spacing: 0.37px;
 
   /* Theme 1 / Neutrals 1 */
-  /* Inside auto layout */
 
+  /* Inside auto layout */
 }
 
 .imalex {
@@ -229,7 +228,6 @@ h5 {
 .jd {
   margin-left: 30px;
 }
-
   /* Next project Set up started */
 
 .imagesec4 {
@@ -361,11 +359,12 @@ h5 {
   text-decoration: none;
 }
 
-.d{
+.d {
   margin-top: -10px;
+
 }
 
-.bb{
+.bb {
   margin-left: 30px;
   box-sizing: border-box;
 
