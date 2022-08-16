@@ -136,15 +136,11 @@ a.inline {
 
   /* or 125% */
 
-  align-items: center;
   letter-spacing: 0.37px;
 
   /* Theme 1 / Neutrals 1 */
-
   /* Inside auto layout */
 
-  order: 0;
-  flex-grow: 0;
 }
 
 .imalex {
@@ -352,7 +348,6 @@ h5 {
 
   /* identical to box height, or 123% */
 
-
   /* Neutrals/N600 */
 
   color: #344563;
@@ -383,7 +378,7 @@ h5 {
 
   /* Neutrals/N0 */
 
-  background: #ffffff;
+  background: #fff;
 
   /* Neutrals/N40 */
 
@@ -417,8 +412,7 @@ h5 {
 
   /* Primary/B500 */
 
-  color: #396DF2;
-
+  color: #396df2;
 
   /* Inside auto layout */
 
