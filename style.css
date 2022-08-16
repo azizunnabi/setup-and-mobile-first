@@ -136,17 +136,13 @@ a.inline {
 
   /* or 125% */
 
-  display: flex;
   align-items: center;
   letter-spacing: 0.37px;
 
   /* Theme 1 / Neutrals 1 */
 
-  color: #091e42;
-
   /* Inside auto layout */
 
-  flex: none;
   order: 0;
   flex-grow: 0;
 }
@@ -322,7 +318,7 @@ h5 {
 
   /* Button / Small */
 
-   font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
@@ -348,37 +344,34 @@ h5 {
 
   /* Caption / 1 - Bolder */
 
-   font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
 
-    /* identical to box height, or 123% */
+  /* identical to box height, or 123% */
 
 
-    /* Neutrals/N600 */
+  /* Neutrals/N600 */
 
   color: #344563;
 
-    /* Inside auto layout */
+  /* Inside auto layout */
 
   flex: none;
   order: 0;
   flex-grow: 0;
   text-decoration: none;
-  width: 55px;
-  height: 16px;
 }
-
 .d{
-  margin-top:-10px;
+  margin-top: -10px;
 }
 .bb{
-  margin-left:30px;
+  margin-left: 30px;
   box-sizing: border-box;
 
-    /* Auto layout */
+  /* Auto layout */
 
   display: flex;
   flex-direction: column;
@@ -390,11 +383,11 @@ h5 {
 
   /* Neutrals/N0 */
 
-  background: #FFFFFF;
+  background: #ffffff;
 
   /* Neutrals/N40 */
 
-  border: 1px solid #DFE1E6;
+  border: 1px solid #dfe1e6;
   border-radius: 16px;
 
   /* Inside auto layout */
@@ -409,7 +402,7 @@ h5 {
 
   /* Button /Normal */
 
-   font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -435,10 +428,10 @@ h5 {
 }
 
 .ld {
-  margin-left:30px;
+  margin-left: 30px;
 }
 .section4 {
-  margin-left:30px;
+  margin-left: 30px;
   margin-top: 1060px;
 }
 
