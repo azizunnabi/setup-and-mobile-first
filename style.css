@@ -1,0 +1,450 @@
+.header-background {
+  position: absolute;
+  width: 475px;
+  height: 916px;
+  left: 0;
+  top: 1px;
+
+  /* Neutrals/N0 */
+
+  background-color: #fff;
+}
+
+.dkl {
+  float: right;
+  margin-right: 90px;
+}
+
+.sec3rlink23 {
+  list-style-type: none;
+}
+
+.dkk {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  left: 12px;
+}
+
+.dd {
+  display: inline;
+}
+
+.limage {
+  display: inline;
+  list-style-type: none;
+}
+
+.dk {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.sa {
+  margin-left: 30px;
+}
+
+.cars {
+  margin-left: 160px;
+  border: 0;
+}
+
+.m-logo {
+  padding-top: 10px;
+  padding-left: 10px;
+  text-decoration: none;
+  width: 76px;
+  height: 20px;
+  font-family: Arial, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+
+  /* identical to box height, or 111% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* Primary/B400 */
+
+  color: #6070ff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+a.inline {
+  width: bold;
+  padding-left: 20px;
+  text-decoration: none;
+  list-style-type: none;
+  padding-right: 0;
+  float: right;
+  color: #6070ff;
+}
+
+.link-right {
+  margin-top: -30px;
+  text-decoration: none;
+  list-style-type: none;
+  float: right;
+}
+
+.section1 {
+  width: 375px;
+  padding-top: 55px;
+  margin-top: 30px;
+  display: inline;
+  padding-right: 60px;
+}
+
+.l1 {
+  margin-top: 10px;
+}
+
+.section2 {
+  padding-left: 10px;
+  width: 920px;
+  padding-top: 50px;
+  height: 122px;
+}
+
+/* Header / 1 */
+
+.h2 {
+  margin-left: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+
+  /* or 130% */
+
+  display: flex;
+  align-items: center;
+
+  /* Neutrals/N800 */
+
+  color: #172b4d;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+
+  /* or 125% */
+
+  letter-spacing: 0.37px;
+
+  /* Theme 1 / Neutrals 1 */
+
+  /* Inside auto layout */
+}
+
+.imalex {
+  width: 375px;
+  padding-left: 0;
+}
+
+.sec4h4 {
+  width: 375px;
+  height: 146px;
+
+  /* Body / 2 */
+
+  font-family: Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* or 150% */
+
+  /* Neutrals/N600 */
+
+  color: #344563;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.nav {
+  width: 375px;
+}
+
+h2 {
+  width: 375px;
+  padding-left: 0;
+}
+
+.section4h4 {
+  margin-top: -80px;
+}
+
+.sec2image {
+  padding-right: 40px;
+  padding-top: 25px;
+  margin-top: -30px;
+  margin-left: 30px;
+}
+
+h5 {
+  color: #6070ff;
+  margin-top: -20px;
+}
+
+.image6 {
+  padding-left: 10px;
+  width: 30px;
+}
+
+.ets {
+  margin-left: 30px;
+  color: #6070ff;
+  margin-top: -50px;
+  padding-top: 125px;
+}
+
+.image3 {
+  padding-left: 50px;
+  width: 80px;
+  height: 130px;
+  margin-top: 15px;
+}
+
+.image7 {
+  padding-left: 50px;
+  width: 30px;
+}
+
+.image5 {
+  padding-left: 50px;
+  width: 30px;
+}
+
+.jd {
+  margin-left: 30px;
+}
+
+.m {
+  margin-left: 70px;
+  margin-top: 15px;
+}
+
+/* Next project Set up started */
+
+.imagesec4 {
+  width: 295px;
+  height: 220px;
+  top: 16px;
+  left: 16px;
+  border-radius: 8px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.tonic1 {
+  margin-left: 30px;
+}
+
+.section3 {
+  margin-left: 30px;
+  padding-top: 300px;
+}
+
+.sec3rlink2 {
+  list-style-type: none;
+  text-decoration: none;
+
+  /* Caption / 1 - Bolder */
+
+  font-family: Arial, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+
+  /* identical to box height, or 123% */
+
+  /* Neutrals/N600 */
+
+  color: #344563;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.sec3p1 {
+  margin-left: 30px;
+  margin-top: 0;
+  width: 295px;
+  height: 76px;
+
+  /* Body / 3 */
+
+  font-family: Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+
+  /* or 160% */
+
+  /* Neutrals/N600 */
+
+  color: #344563;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.sec3rlink31 {
+  text-decoration: none;
+  width: 29px;
+  height: 16px;
+
+  /* Button / Small */
+
+  font-family: Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+
+  /* identical to box height, or 133% */
+
+  letter-spacing: 0.03em;
+
+  /* Primary/B400 */
+
+  color: #6070ff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.sec3rlink3 {
+  width: 55px;
+  height: 16px;
+
+  /* Caption / 1 - Bolder */
+
+  font-family: Arial, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+
+  /* identical to box height, or 123% */
+
+  /* Neutrals/N600 */
+
+  color: #344563;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  text-decoration: none;
+}
+
+.d {
+  margin-top: -10px;
+}
+
+.bb {
+  margin-left: 30px;
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  gap: 12px;
+  width: 327px;
+  height: 552px;
+
+  /* Neutrals/N0 */
+
+  background: #fff;
+
+  /* Neutrals/N40 */
+
+  border: 1px solid #dfe1e6;
+  border-radius: 16px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.sec3rlink4 {
+  width: 200px;
+  height: 24px;
+
+  /* Button /Normal */
+
+  font-family: Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+
+  /* identical to box height, or 141% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  /* Primary/B500 */
+
+  color: #396df2;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.ld {
+  margin-left: 30px;
+}
+
+.section4 {
+  margin-left: 30px;
+  margin-top: 1060px;
+}
+
+.section5 {
+  margin-top: 70px;
+}
